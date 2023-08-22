@@ -28,6 +28,7 @@ help:
 	@echo "  navio - the RaspberryPi + NavIO cape combination"
 	@echo "  linux - a generic Linux build"
 	@echo "  flymaple - the FlyMaple board"
+	@echo "  elfinaat - the ElfinAAT board"
 	@echo "  vrbrain - the VRBrain boards"
 	@echo "  sitl - the SITL Software In The Loop simulation"
 	@echo "  bbbmini - the Beagle Bone Black mini"
